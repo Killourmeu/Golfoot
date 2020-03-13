@@ -1,0 +1,516 @@
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 100   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 99   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 66 99   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 66 99   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 66 99   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 66 98   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 65 98   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 65 98   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 65 98   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 65 97   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 64 97   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 64 96   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 64 96   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 63 96   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 63 95   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 62 95   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 62 94   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 62 94   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 61 93   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 61 93   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 60 92   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 60 92   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 59 91   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Pos collision : ( 57 ; 87 )
+Pos collision : ( 60 ; 87 )
+Position de la balle : 58 90   |   Moyenne des collisions : -6.00 1.00   |   compteur : 2.0
+Angle retourné : -1.41
+Angle renvoyé : 279.46
+Position de la balle : 59 90   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 60 90   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 61 89   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 62 89   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 62 88   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 63 88   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 64 87   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 65 87   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 66 86   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 67 86   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 68 85   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 69 84   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 70 84   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 71 83   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 72 83   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 73 82   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 74 81   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 76 81   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 77 80   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 78 79   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 79 79   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 80 78   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 82 77   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 83 77   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 84 76   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 75   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 87 74   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 88 74   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 90 73   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 91 72   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 93 71   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 94 70   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 96 70   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 97 69   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 99 68   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 100 67   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 102 66   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 104 65   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 105 64   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 107 63   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 109 62   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 110 61   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 112 61   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 114 60   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 116 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 117 58   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 119 57   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 55   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 123 54   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 125 53   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 127 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 129 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 131 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Pos collision : ( 130 ; 50 )
+Pos collision : ( 130 ; 51 )
+Pos collision : ( 133 ; 50 )
+Pos collision : ( 133 ; 51 )
+Position de la balle : 133 49   |   Moyenne des collisions : 6.00 -6.00   |   compteur : 4.0
+Angle retourné : -0.79
+Angle renvoyé : 315.00
+Pos collision : ( 133 ; 47 )
+Pos collision : ( 133 ; 48 )
+Pos collision : ( 136 ; 47 )
+Pos collision : ( 136 ; 48 )
+Position de la balle : 134 47   |   Moyenne des collisions : 2.00 2.00   |   compteur : 4.0
+Angle retourné : 0.79
+Angle renvoyé : 45.00
+Pos collision : ( 130 ; 50 )
+Pos collision : ( 133 ; 50 )
+Position de la balle : 132 48   |   Moyenne des collisions : 4.00 -1.00   |   compteur : 2.0
+Angle retourné : -1.33
+Angle renvoyé : 284.04
+Pos collision : ( 132 ; 51 )
+Pos collision : ( 132 ; 52 )
+Pos collision : ( 135 ; 51 )
+Pos collision : ( 135 ; 52 )
+Position de la balle : 133 50   |   Moyenne des collisions : 6.00 2.00   |   compteur : 4.0
+Angle retourné : 1.25
+Angle renvoyé : 71.57
+Pos collision : ( 130 ; 53 )
+Pos collision : ( 130 ; 54 )
+Pos collision : ( 133 ; 53 )
+Pos collision : ( 133 ; 54 )
+Position de la balle : 133 52   |   Moyenne des collisions : 6.00 -6.00   |   compteur : 4.0
+Angle retourné : -0.79
+Angle renvoyé : 315.00
+Position de la balle : 131 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 129 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 126 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 124 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 118 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 116 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 113 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 111 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 108 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 105 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 103 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 100 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 97 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 94 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 91 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 89 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 86 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 87 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 87 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 87 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 88 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 88 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 88 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 89 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 89 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 89 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 90 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 90 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 91 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 91 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 92 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 92 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 93 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 94 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 94 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 95 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 96 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 96 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 97 53   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 98 53   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 99 53   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 100 53   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 100 54   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 101 54   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 102 54   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 103 55   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 104 55   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 105 55   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 106 55   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 107 56   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 108 56   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 109 56   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 111 57   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 112 57   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 113 57   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 114 58   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 115 58   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 116 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 118 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 119 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 120 60   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 120 60   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 120 60   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 120 60   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 120 60   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 60   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 59   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 58   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 58   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 122 58   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 122 57   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 122 57   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 122 57   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 122 56   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 123 56   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 123 55   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 123 55   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 123 54   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 124 54   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 124 53   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 124 53   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 125 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 125 52   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 125 51   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 126 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 126 50   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 126 49   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 127 48   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 127 48   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 128 47   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 128 46   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 129 45   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 129 44   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 130 43   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 130 43   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 131 42   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 131 41   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Pos collision : ( 129 ; 42 )
+Pos collision : ( 132 ; 42 )
+Position de la balle : 132 40   |   Moyenne des collisions : 4.00 -3.00   |   compteur : 2.0
+Angle retourné : -0.93
+Angle renvoyé : 306.87
+Pos collision : ( 130 ; 41 )
+Pos collision : ( 133 ; 41 )
+Position de la balle : 132 39   |   Moyenne des collisions : 4.00 -1.00   |   compteur : 2.0
+Angle retourné : -1.33
+Angle renvoyé : 284.04
+Pos collision : ( 131 ; 40 )
+Pos collision : ( 134 ; 40 )
+Position de la balle : 132 38   |   Moyenne des collisions : 4.00 1.00   |   compteur : 2.0
+Angle retourné : 1.33
+Angle renvoyé : 75.96
+Pos collision : ( 129 ; 39 )
+Pos collision : ( 132 ; 39 )
+Position de la balle : 132 37   |   Moyenne des collisions : 4.00 -3.00   |   compteur : 2.0
+Angle retourné : -0.93
+Angle renvoyé : 306.87
+Pos collision : ( 130 ; 38 )
+Pos collision : ( 130 ; 39 )
+Pos collision : ( 133 ; 38 )
+Pos collision : ( 133 ; 39 )
+Position de la balle : 133 37   |   Moyenne des collisions : 6.00 -6.00   |   compteur : 4.0
+Angle retourné : -0.79
+Angle renvoyé : 315.00
+Pos collision : ( 132 ; 36 )
+Pos collision : ( 132 ; 37 )
+Pos collision : ( 135 ; 36 )
+Pos collision : ( 135 ; 37 )
+Position de la balle : 133 35   |   Moyenne des collisions : 6.00 2.00   |   compteur : 4.0
+Angle retourné : 1.25
+Angle renvoyé : 71.57
+Pos collision : ( 129 ; 36 )
+Pos collision : ( 132 ; 36 )
+Position de la balle : 132 34   |   Moyenne des collisions : 4.00 -3.00   |   compteur : 2.0
+Angle retourné : -0.93
+Angle renvoyé : 306.87
+Pos collision : ( 132 ; 36 )
+Pos collision : ( 132 ; 37 )
+Pos collision : ( 135 ; 36 )
+Pos collision : ( 135 ; 37 )
+Position de la balle : 133 35   |   Moyenne des collisions : 6.00 2.00   |   compteur : 4.0
+Angle retourné : 1.25
+Angle renvoyé : 71.57
+Pos collision : ( 131 ; 37 )
+Pos collision : ( 131 ; 38 )
+Pos collision : ( 134 ; 37 )
+Pos collision : ( 134 ; 38 )
+Position de la balle : 133 36   |   Moyenne des collisions : 6.00 -2.00   |   compteur : 4.0
+Angle retourné : -1.25
+Angle renvoyé : 288.43
+Pos collision : ( 130 ; 38 )
+Pos collision : ( 130 ; 39 )
+Pos collision : ( 133 ; 38 )
+Pos collision : ( 133 ; 39 )
+Position de la balle : 133 37   |   Moyenne des collisions : 6.00 -6.00   |   compteur : 4.0
+Angle retourné : -0.79
+Angle renvoyé : 315.00
+Position de la balle : 131 38   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 130 38   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 129 38   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 127 38   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 126 39   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 124 39   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 123 39   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 121 39   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 120 40   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+Position de la balle : 63 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 63 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 63 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 63 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 63 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 62 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 62 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 62 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 62 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 62 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 61 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 61 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 61 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 60 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 60 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 60 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 59 21   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 59 21   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Pos collision : ( 57 ; 18 ) & Valeur case pointée : 1
+Pos collision : ( 60 ; 18 ) & Valeur case pointée : 1
+Position de la balle : 58 21   |   Moyenne des collisions : -6.00 1.00   |   compteur : 2.0
+
+Angle retourné : -1.41
+Angle renvoyé : 279.46
+Position de la balle : 59 21   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 59 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 60 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 60 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 61 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 62 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 62 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 63 22   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 64 23   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 64 23   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 65 23   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 66 23   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 67 23   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 68 23   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 69 24   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 69 24   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 70 24   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 71 24   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 72 24   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 73 25   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 74 25   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 75 25   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 77 25   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 78 26   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 79 26   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 80 26   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 81 26   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 82 27   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 84 27   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 85 27   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 86 27   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 88 28   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 89 28   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 90 28   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 92 28   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 93 29   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 95 29   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 96 29   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 98 30   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 99 30   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 101 30   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 102 31   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 104 31   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 106 31   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 107 32   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 109 32   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 111 33   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 112 33   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 114 33   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 116 34   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 118 34   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 120 34   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 122 35   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 124 35   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 125 36   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 127 36   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 129 36   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 131 37   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Pos collision : ( 131 ; 37 ) & Valeur case pointée : 1
+Pos collision : ( 131 ; 38 ) & Valeur case pointée : 1
+Pos collision : ( 134 ; 37 ) & Valeur case pointée : 1
+Pos collision : ( 134 ; 38 ) & Valeur case pointée : 1
+Position de la balle : 134 37   |   Moyenne des collisions : 2.00 -6.00   |   compteur : 4.0
+
+Angle retourné : -0.32
+Angle renvoyé : 341.57
+Pos collision : ( 133 ; 35 ) & Valeur case pointée : 1
+Pos collision : ( 133 ; 36 ) & Valeur case pointée : 1
+Pos collision : ( 136 ; 35 ) & Valeur case pointée : 1
+Pos collision : ( 136 ; 36 ) & Valeur case pointée : 1
+Position de la balle : 135 36   |   Moyenne des collisions : -2.00 -2.00   |   compteur : 4.0
+
+Angle retourné : 0.79
+Angle renvoyé : 45.00
+Pos collision : ( 130 ; 38 ) & Valeur case pointée : 1
+Pos collision : ( 130 ; 39 ) & Valeur case pointée : 1
+Pos collision : ( 133 ; 38 ) & Valeur case pointée : 1
+Pos collision : ( 133 ; 39 ) & Valeur case pointée : 1
+Position de la balle : 133 37   |   Moyenne des collisions : 6.00 -6.00   |   compteur : 4.0
+
+Angle retourné : -0.79
+Angle renvoyé : 315.00
+Pos collision : ( 130 ; 41 ) & Valeur case pointée : 1
+Pos collision : ( 133 ; 41 ) & Valeur case pointée : 1
+Position de la balle : 132 39   |   Moyenne des collisions : 4.00 -1.00   |   compteur : 2.0
+
+Angle retourné : -1.33
+Angle renvoyé : 284.04
+Pos collision : ( 131 ; 43 ) & Valeur case pointée : 1
+Pos collision : ( 134 ; 43 ) & Valeur case pointée : 1
+Position de la balle : 132 41   |   Moyenne des collisions : 4.00 1.00   |   compteur : 2.0
+
+Angle retourné : 1.33
+Angle renvoyé : 75.96
+Pos collision : ( 130 ; 44 ) & Valeur case pointée : 1
+Pos collision : ( 130 ; 45 ) & Valeur case pointée : 1
+Pos collision : ( 133 ; 44 ) & Valeur case pointée : 1
+Pos collision : ( 133 ; 45 ) & Valeur case pointée : 1
+Position de la balle : 133 43   |   Moyenne des collisions : 6.00 -6.00   |   compteur : 4.0
+
+Angle retourné : -0.79
+Angle renvoyé : 315.00
+Position de la balle : 131 43   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 129 42   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 126 41   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 124 41   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 122 40   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
+Position de la balle : 120 40   |   Moyenne des collisions : 0.00 0.00   |   compteur : 0.0
+
